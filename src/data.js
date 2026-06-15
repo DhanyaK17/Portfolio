@@ -3,7 +3,7 @@ export const personalData = {
   role: "MCA Fresher & Frontend Developer",
   description: "Passionate about building beautiful, responsive, and user-friendly web applications. My Portfolio is a collection of stories told through visuals , codes and ideas",
   profileImage: "/Dhanya.jpeg",
-  resumeLink: "/RESUME.pdf",
+  resumeLink: "/RESUME-PLACEMENT.pdf",
   badges: [
     { 
       icon: "🎓", 
